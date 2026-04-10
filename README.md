@@ -32,4 +32,4 @@ Math + CS educator turned software developer. I build interactive visualizations
 
 ---
 
-📍 Open to software engineering roles · your-dannynagelmath@gmail.com
+📍 Open to software engineering roles · dannynagelmath@gmail.com
