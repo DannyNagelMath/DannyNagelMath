@@ -8,7 +8,7 @@ Math + CS educator turned software developer. I build interactive visualizations
 
 | | |
 |---|---|
-| **Education** | M.S. Computer Science (ML specialization) — Georgia Tech · B.S. Mathematics |
+| **Education** | M.S. Computer Science (ML specialization) — Georgia Tech · B.S. Mathematics — Penn State |
 | **Previously** |Math and AP Computer Science teacher, 12 years |
 | **Interests** | Mathematical visualization, algorithm design, interactive graphics |
 
