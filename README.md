@@ -19,7 +19,6 @@ Math + CS educator turned software developer. I build interactive visualizations
 | [ASS Explorer](https://github.com/DannyNagelMath/ASS_Explorer) | Interactive angle-side-side triangle geometry tool |
 | [Ultimate Tic-Tac-Toe](https://github.com/DannyNagelMath/Ultimate-TicTacToe) | Enhanced, strategic TicTacToe with 9 local boards |
 | [Sudoku Solver](https://github.com/DannyNagelMath/Sudoku)| Constraint-based solver with step-through visualization |
-| [Recaman Sequence](https://github.com/USERNAME/REPO) | Web-based visualization of the Recaman integer sequence |
 
 ---
 
