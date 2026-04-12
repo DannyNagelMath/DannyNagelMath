@@ -17,7 +17,7 @@ Math + CS educator turned software developer. I build interactive visualizations
 |---|---|
 | [Minesweeper](https://github.com/DannyNagelMath/Minesweeper) | Classic game built in JavaFX with full game logic and UI |
 | [Sudoku Solver](https://github.com/DannyNagelMath/Sudoku)| Constraint-based solver with step-through visualization |
-| [Ultimate Tic-Tac-Toe](https://github.com/DannyNagelMath/Ultimate-TicTacToe) | Interactive desktop app for exploring fractal geometry |
+| [Ultimate Tic-Tac-Toe](https://github.com/DannyNagelMath/Ultimate-TicTacToe) | Enhanced, stratigic TicTacToe with 9 local boards |
 | [ASS Explorer](https://github.com/DannyNagelMath/ASS_Explorer) | Interactive angle-side-side triangle geometry tool |
 | [Recaman Sequence](https://github.com/USERNAME/REPO) | Web-based visualization of the Recaman integer sequence |
 
