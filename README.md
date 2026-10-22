@@ -15,7 +15,7 @@ Math + CS educator as well as software developer with a focus on machine learnin
 
 | Project | Description |
 |---|---|
-| [Mistake Trainer](https://github.com/DannyNagelMath/Mistake-Trainer). | Spaced Repetition Chess Trainer based on Lichess |
+| [Mistake Trainer](https://github.com/DannyNagelMath/Mistake-Trainer) | Spaced Repetition Chess Trainer based on Lichess |
 | [uttt-rl](https://github.com/DannyNagelMath/uttt-rl) | PPO self-play trained agent for Ultimate TicTacToe |
 | [Minesweeper](https://github.com/DannyNagelMath/Minesweeper) | Classic game built in JavaFX with full game logic and UI |
 | [ASS Explorer](https://github.com/DannyNagelMath/ASS_Explorer) | Interactive angle-side-side triangle geometry tool |
